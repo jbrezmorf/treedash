@@ -1,0 +1,35 @@
+TeamCity        
+free for 3 agents, 20 build configurations
+270  eur        + 1 agent +10config
+1800 eur        full access
+
+- GUI
+- clear interface
+- several test reporter methods
+- native support of feature branches
+- test history
+- global statistics
+- moderate set of plugins
+Missing:
+- reporting other metrics then time
+- 2 level hierarchy of test (test suits)
+- program your builds
+- BIG (0.5 GB) !!
+- git do not clone
+
+
+Bamboo (integrate with JIRA)
+$10 1 agent 10 jobs
+$50 1 agent 
+$100 5 agents 
+... per month, hosted
+$2200 5 agents - buy your server
+
+
+CicleCI - fully hosted (limited languages)
+$49 / month
+
+TravisCI -fully hosted, based on yaml configuration files, no dashboard
+
+CruiseControl - free
+XML config file 
